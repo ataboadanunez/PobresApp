@@ -1,4 +1,2 @@
 streamlit
 bs4
-json
-requests
