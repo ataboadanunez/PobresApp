@@ -1,5 +1,7 @@
 # PobresApp
-Currency converter App using Streamlit
+Converter of Argentinean Pesos (ARS) using Streamlit an a bit of web scrapping.
+
+![Cover](app.png)
 
 Run it using `streamlit` at the command line
 
